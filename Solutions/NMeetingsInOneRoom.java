@@ -13,8 +13,6 @@ class Solution
            } 
         });
         int count = 1;
-        //for(int[] a : meetings)
-            //System.out.println(Arrays.toString(a));
         int[] prev = meetings[0];
         for(int i=1;i<n;i++){
             if(meetings[i][0]>prev[1]){
