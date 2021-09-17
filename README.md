@@ -16,3 +16,7 @@ What is the maximum number of meetings that can be accommodated in the meeting r
 
 5)Kth element of 2 sorted arrays(17/09/2021):
 Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that would be at the k’th position of the final sorted array.(KthElementOfTwoSortedArrays.java)
+
+6)palindromic partitioning of a string(17/09/2021):
+Given a String S, Find all possible Palindromic partitions of the given String.(PalindromicPartitioningOfAString.java)
+
