@@ -13,3 +13,6 @@ Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascen
 4)N meetings in one room(16/09/2021):
 There is one meeting room in a firm. There are N meetings in the form of (start[i], end[i]) where start[i] is start time of meeting i and end[i] is finish time of meeting i.
 What is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time?(NMeetingsInOneRoom.java)
+
+5)Kth element of 2 sorted arrays(17/09/2021):
+Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that would be at the k’th position of the final sorted array.(KthElementOfTwoSortedArrays.java)
