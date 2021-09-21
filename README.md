@@ -20,3 +20,5 @@ Given two sorted arrays arr1 and arr2 of size N and M respectively and an elemen
 6)palindromic partitioning of a string(17/09/2021):
 Given a String S, Find all possible Palindromic partitions of the given String.(PalindromicPartitioningOfAString.java)
 
+7)Dam of candies(21/09/2021):
+Geek wants to make a special space for candies on his bookshelf. Currently, it has N books of different heights, represented by the array height[] and unit width. Help him select 2 books such that he can store maximum candies between them by removing all the other books from between the selected books. The task is to find out the area between two books that can hold the maximum candies without changing the original position of selected books. (DamOfCandies.java)
