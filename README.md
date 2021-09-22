@@ -15,10 +15,13 @@ There is one meeting room in a firm. There are N meetings in the form of (start[
 What is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time?(NMeetingsInOneRoom.java)
 
 5)Kth element of 2 sorted arrays(17/09/2021):
-Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that would be at the k’th position of the final sorted array.(KthElementOfTwoSortedArrays.java)
+Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that wo/uld be at the k’th position of the final sorted array.(KthElementOfTwoSortedArrays.java)
 
 6)palindromic partitioning of a string(17/09/2021):
 Given a String S, Find all possible Palindromic partitions of the given String.(PalindromicPartitioningOfAString.java)
 
 7)Dam of candies(21/09/2021):
 Geek wants to make a special space for candies on his bookshelf. Currently, it has N books of different heights, represented by the array height[] and unit width. Help him select 2 books such that he can store maximum candies between them by removing all the other books from between the selected books. The task is to find out the area between two books that can hold the maximum candies without changing the original position of selected books. (DamOfCandies.java)
+
+8)Repeated String Match(22/09/2021):
+Given two strings A and B, find the minimum number of times A has to be repeated such that B becomes a substring of the repeated A. If B cannot be a substring of A no matter how many times it is repeated, return -1.(RepeatedStringMatch.java)
