@@ -25,3 +25,6 @@ Geek wants to make a special space for candies on his bookshelf. Currently, it h
 
 8)Repeated String Match(22/09/2021):
 Given two strings A and B, find the minimum number of times A has to be repeated such that B becomes a substring of the repeated A. If B cannot be a substring of A no matter how many times it is repeated, return -1.(RepeatedStringMatch.java)
+
+9)Count total set bits(23/09/2021):
+You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive). (CountTotalSetBits.java)
