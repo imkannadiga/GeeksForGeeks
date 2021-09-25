@@ -15,7 +15,7 @@ There is one meeting room in a firm. There are N meetings in the form of (start[
 What is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time?(NMeetingsInOneRoom.java)
 
 5)Kth element of 2 sorted arrays(17/09/2021):
-Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that wo/uld be at the k’th position of the final sorted array.(KthElementOfTwoSortedArrays.java)
+Given two sorted arrays arr1 and arr2 of size N and M respectively and an element K. The task is to find the element that wo/uld be at the k’th position of the final sorted array.(/KthElementOfTwoSortedArrays.java)
 
 6)palindromic partitioning of a string(17/09/2021):
 Given a String S, Find all possible Palindromic partitions of the given String.(PalindromicPartitioningOfAString.java)
@@ -28,3 +28,6 @@ Given two strings A and B, find the minimum number of times A has to be repeated
 
 9)Count total set bits(23/09/2021):
 You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive). (CountTotalSetBits.java)
+
+10)Largest subarray with 0 sum(25/09/2021):
+Given an array having both positive and negative integers. The task is to compute the length of the largest subarray with sum 0.(LargestSubarrayWithZeroSum.java)
