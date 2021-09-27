@@ -34,3 +34,6 @@ Given an array having both positive and negative integers. The task is to comput
 
 11)Middle element in a liked list(27/09/2021):
 Given a singly linked list of N nodes. The task is to find the middle of the linked list.1-> 2->3->4->5, then the middle node of the list is 3. If there are two middle nodes(in case, when N is even), print the second middle element. For example, if the linked list given is 1->2->3->4->5->6, then the middle node of the list is 4.(MiddleElementInALinkedList.java)
+
+12)LargestIndependentSetProblem (27/09/2021):
+Given a Binary Tree of size N, find the size of the Largest Independent Set(LIS) in it. A subset of all tree nodes is an independent set if there is no edge between any two nodes of the subset. Your task is to complete the function LISS(), which finds the size of the Largest Independent Set.(LargestIndependentSetProblem.java)
