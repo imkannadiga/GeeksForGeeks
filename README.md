@@ -31,3 +31,6 @@ You are given a number N. Find the total count of set bits for all numbers from 
 
 10)Largest subarray with 0 sum(25/09/2021):
 Given an array having both positive and negative integers. The task is to compute the length of the largest subarray with sum 0.(LargestSubarrayWithZeroSum.java)
+
+11)Middle element in a liked list(27/09/2021):
+Given a singly linked list of N nodes. The task is to find the middle of the linked list.1-> 2->3->4->5, then the middle node of the list is 3. If there are two middle nodes(in case, when N is even), print the second middle element. For example, if the linked list given is 1->2->3->4->5->6, then the middle node of the list is 4.(MiddleElementInALinkedList.java)
