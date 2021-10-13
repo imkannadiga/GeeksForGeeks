@@ -37,3 +37,10 @@ Given a singly linked list of N nodes. The task is to find the middle of the lin
 
 12)LargestIndependentSetProblem (27/09/2021):
 Given a Binary Tree of size N, find the size of the Largest Independent Set(LIS) in it. A subset of all tree nodes is an independent set if there is no edge between any two nodes of the subset. Your task is to complete the function LISS(), which finds the size of the Largest Independent Set.(LargestIndependentSetProblem.java)
+
+13)Count triplets with sum smaller than X (12/10/2021):
+Given an array arr[] of distinct integers of size N and a value sum, the task is to find the count of triplets (i, j, k), having (i<j<k) with the sum of (arr[i] + arr[j] + arr[k]) smaller than the given value sum.(TripletsWithSmallerSum.java)
+
+14)Interleaved Strings (13/10/2021):
+Given strings A, B, and C, find whether C is formed by an interleaving of A and B.
+An interleaving of two strings S and T is a configuration such that it creates a new string Y from the concatenation substrings of A and B and |Y| = |A + B| = |C| (InterleavedStrings.java)
