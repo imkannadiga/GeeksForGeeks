@@ -44,3 +44,12 @@ Given an array arr[] of distinct integers of size N and a value sum, the task is
 14)Interleaved Strings (13/10/2021):
 Given strings A, B, and C, find whether C is formed by an interleaving of A and B.
 An interleaving of two strings S and T is a configuration such that it creates a new string Y from the concatenation substrings of A and B and |Y| = |A + B| = |C| (InterleavedStrings.java)
+
+15)Swap all odd and even bits(14/10/2021):
+Given an unsigned integer N. The task is to swap all odd bits with even bits. For example, if the given number is 23 (00010111), it should be converted to 43(00101011). Here, every even position bit is swapped with adjacent bit on the right side(even position bits are highlighted in the binary representation of 23), and every odd position bit is swapped with an adjacent on the left side.(SwapOddAndEvenBits.java)
+
+16)All Unique Permutations of an array(15/10/2021):
+Given an array arr[] of length n. Find all possible unique permutations of the array(AllUniquePermutations.java)
+
+17)Count distinct elements in every window(16/10/2021):
+Given an array of integers and a number K. Find the count of distinct elements in every window of size K in the array.(CountDistinctElementsInEveryWindow.java)
