@@ -53,3 +53,6 @@ Given an array arr[] of length n. Find all possible unique permutations of the a
 
 17)Count distinct elements in every window(16/10/2021):
 Given an array of integers and a number K. Find the count of distinct elements in every window of size K in the array.(CountDistinctElementsInEveryWindow.java)
+
+18)Segregate even and odd nodes in a Link List(18/10/2021):
+Given a link list of size N, modify the list such that all the even numbers appear before all the odd numbers in the modified list. The order of appearance of numbers within each segregation should be same as that in the original list.(SegregateEvenOddNodes.java)
