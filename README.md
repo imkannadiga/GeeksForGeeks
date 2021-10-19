@@ -56,3 +56,6 @@ Given an array of integers and a number K. Find the count of distinct elements i
 
 18)Segregate even and odd nodes in a Link List(18/10/2021):
 Given a link list of size N, modify the list such that all the even numbers appear before all the odd numbers in the modified list. The order of appearance of numbers within each segregation should be same as that in the original list.(SegregateEvenOddNodes.java)
+
+19)Maximum rectangular area in given Histogram(19/10/2021):
+Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit, there will be N bars height of each bar will be given by the array arr.(MaxRectAreaInHistogram.java)
