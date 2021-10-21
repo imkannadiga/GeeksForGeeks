@@ -59,3 +59,6 @@ Given a link list of size N, modify the list such that all the even numbers appe
 
 19)Maximum rectangular area in given Histogram(19/10/2021):
 Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit, there will be N bars height of each bar will be given by the array arr.(MaxRectAreaInHistogram.java)
+
+20)Lowest Common Ancestor in a Binary Tree(21/10/2021):
+Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present. (LowestCommonAncestor.java)
