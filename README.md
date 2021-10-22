@@ -62,3 +62,6 @@ Find the largest rectangular area possible in a given histogram where the larges
 
 20)Lowest Common Ancestor in a Binary Tree(21/10/2021):
 Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present. (LowestCommonAncestor.java)
+
+21)Top View of Binary Tree (22/10/2021):
+Given below is a binary tree. The task is to print the top view of binary tree. Top view of a binary tree is the set of nodes visible when the tree is viewed from the top. (TopViewOfABinaryTree.java)
