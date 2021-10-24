@@ -68,3 +68,6 @@ Given below is a binary tree. The task is to print the top view of binary tree. 
 
 22)Is Binart Tree A Heap(23/10/2021):
 given a binary tree, return true if it follows max heap property. else return false.(IsBinaryTreeHeap.java)
+
+23)Minimum Spanning Tree(24/10/2021):
+Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the Minimum Spanning Tree.(MinimumSpanningTreeCost.java)
