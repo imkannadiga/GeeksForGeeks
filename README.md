@@ -71,3 +71,6 @@ given a binary tree, return true if it follows max heap property. else return fa
 
 23)Minimum Spanning Tree(24/10/2021):
 Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the Minimum Spanning Tree.(MinimumSpanningTreeCost.java)
+
+24)Project Manager(25/10/2021):
+An IT company is working on a large project. The project is broken into N modules and distributed to different teams. Each team can work parallelly. The amount of time (in months) required to complete each module is given in an array duration[ ] i.e. time needed to complete ith module is duration[i] months. You are also given M dependencies such that for each i (1 ≤ i ≤ M)  dependencies[i][1]th module can be started after dependencies[i][0]th module is completed. As the project manager, compute the minimum time required to complete the project.(ProjectManager.java)
