@@ -74,3 +74,9 @@ Given a weighted, undirected and connected graph of V vertices and E edges. The 
 
 24)Project Manager(25/10/2021):
 An IT company is working on a large project. The project is broken into N modules and distributed to different teams. Each team can work parallelly. The amount of time (in months) required to complete each module is given in an array duration[ ] i.e. time needed to complete ith module is duration[i] months. You are also given M dependencies such that for each i (1 ≤ i ≤ M)  dependencies[i][1]th module can be started after dependencies[i][0]th module is completed. As the project manager, compute the minimum time required to complete the project.(ProjectManager.java)
+
+25)Bitwise AND of the Array (26/10/2021):
+Given an array A[ ] of N integers and an integer X. In one operation, you can change the ith element of the array to any integer value where 1 ≤ i ≤ N. Calculate minimum number of such operations required such that the bitwise AND of all the elements of the array is strictly greater than X.(BitwiseAndOfArray.java)
+
+26)Concatenation of Zig-Zag String in n Rows (27/10/2021):
+Given a string and number of rows ‘n’. Print the string formed by concatenating n rows when the input string is written in row-wise Zig-Zag fashion.(ConcatZigZagStringsInNRows.java)
