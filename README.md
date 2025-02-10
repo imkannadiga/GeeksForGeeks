@@ -80,3 +80,6 @@ Given an array A[ ] of N integers and an integer X. In one operation, you can ch
 
 26)Concatenation of Zig-Zag String in n Rows (27/10/2021):
 Given a string and number of rows ‘n’. Print the string formed by concatenating n rows when the input string is written in row-wise Zig-Zag fashion.(ConcatZigZagStringsInNRows.java)
+
+27) K sum Paths (10/02/2025)
+Given a binary tree and an integer k, determine the number of downward-only paths where the sum of the node values in the path equals k. A path can start and end at any node within the tree but must always move downward (from parent to child). (KSumPaths.java)
